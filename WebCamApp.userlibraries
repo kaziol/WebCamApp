@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.github.sarxos:webcam-capture:0.3.10">
+    <archive path="C:/Users/Majkel/.m2/repository/com/github/sarxos/webcam-capture/0.3.10/webcam-capture-0.3.10.jar" />
+  </library>
+  <library name="Maven: com.nativelibs4java:bridj:0.6.2">
+    <archive path="C:/Users/Majkel/.m2/repository/com/nativelibs4java/bridj/0.6.2/bridj-0.6.2.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.2">
+    <archive path="C:/Users/Majkel/.m2/repository/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
