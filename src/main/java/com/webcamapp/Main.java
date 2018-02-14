@@ -1,8 +1,6 @@
 package com.webcamapp;
 
 import com.github.sarxos.webcam.Webcam;
-import com.github.sarxos.webcam.WebcamEvent;
-import com.github.sarxos.webcam.WebcamEventType;
 import com.github.sarxos.webcam.WebcamPanel;
 import javafx.application.Application;
 import javafx.embed.swing.SwingNode;
@@ -50,11 +48,11 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        initialize();
-        primaryStage.getIcons().add(recImg);
-        primaryStage.setTitle("Webcam Application");
-        primaryStage.setScene(scene);
-        primaryStage.show();
+            initialize();
+            primaryStage.getIcons().add(recImg);
+            primaryStage.setTitle("Webcam Application");
+            primaryStage.setScene(scene);
+            primaryStage.show();
 
 
         scene.setOnMouseClicked(e->{
